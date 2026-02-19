@@ -92,6 +92,6 @@ Promotional success was not uniform across all geographies. Analyzing the highly
 ---
 
 ## 👤 Author & Contact
-**Satyam Tiwari** Data Analyst  
+**Satyam Tiwari**  
  Email: satyam227025@gmail.com  
  Contact: +91 9054524495
