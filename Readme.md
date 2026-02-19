@@ -54,6 +54,7 @@ While the Diwali and Sankranti campaigns successfully drove sheer volume, our an
 
 ##  Insights Deep-Dive
 
+### Overview of Promo types performance
 ![Image alt](https://github.com/satyam250605/FMCG-Retail-Promotional-Analysis/blob/b77c5e840ef5112d0f411f5ae40494931c6376ca/promo_type_overview.png)
 
 ### 1. The "25% OFF" Profitability Drain
